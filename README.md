@@ -13,4 +13,4 @@ Live Demo: https://anassbraim.github.io/netflix
 <p>Copyright 2022 Anass Braim - Distributed under the MIT License.
 <br>
  <h2> Preview</h2>
-<img src="https://pbs.twimg.com/media/Fh8A1FhXEAcU7ck?format=jpg&name=large" alt="google"/>
+<img src="https://pbs.twimg.com/media/Fh8FEVPWYAADKXb?format=jpg&name=large" alt="google"/>
