@@ -1,8 +1,8 @@
 # Netflix | HTML, CSS & JavaScript
 
 <h2> Description </h2>
-Fully Responsive Netflix Website Using HTML & CSS and JavaScript.
-Live Demo: https://anassbraim.github.io/netflix
+Fully Responsive Netflix Website Using HTML & CSS and JavaScript. <br>
+<b>Live Demo:<b> https://netflix-anass.netlify.app
 
 <h2> Contat Info </h2>
 - linkedin : https://www.linkedin.com/in/anassbraim/ <br>
